@@ -3,23 +3,26 @@
         {
             "id": 1, 
             "name": "Museum Affandi", 
+            "slug": "museum-affandi",
             "src": "affandi" , 
             "address": "Jl. Laksda Adisucipto No.167, Papringan, Caturtunggal", 
-            "description": "Museum Affandi merupakan salah satu museum bersejarah yang terletak di Provinsinsi Yogyakarta tepatnya pada jalan Kab. Sleman"
+            "description": "The Affandi Museum is a historical museum located in Yogyakarta Province, precisely on Jalan Kab. Sleman"
         },
         {
             "id": 2, 
             "name": "Benteng Vredeburg", 
+            "slug": "benteng-vredeburg",
             "src": "vredeburg" , 
             "address": "Jl. Margo Mulyo No.6, Ngupasan", 
-            "description": "Benteng Vredeburg adalah saksi sejarah betapa kuatnya pengaruh Belanda dalam menjajah Indonesia. Karena posisinya yang strategis di tengah kota, tepatnya di depan Keraton Yogyakarta, Benteng Vredeburg telah merekam peristiwa-peristiwa penting dan telah mengalami perubahan fungsi dari waktu ke waktu."
+            "description": "Vredeburg Fort is a historical witness to how strong the Dutch influence was in colonizing Indonesia. Due to its strategic position in the middle of the city, precisely in front of the Yogyakarta Palace, Fort Vredeburg has recorded important events and has undergone changes in function over time."
         },
         {
             "id": 3, 
-            "name": "Museum Sonobudoyo", 
+            "name": "Museum Sonobudoyo",
+            "slug": "museum-senobudoyo",
             "src": "senobudoyo" , 
             "address": "Jalan Trikora No. 6 Yogyakarta", 
-            "description": "Museum Sonobudoyo adalah museum sejarah dan kebudayaan Jawa, termasuk bangunan arsitektur klasik Jawa. Museum ini menyimpan koleksi mengenai budaya dan sejarah Jawa yang dianggap paling lengkap setelah Museum Nasional Republik Indonesia di Jakarta. Selain keramik pada zaman Neolitik dan patung perunggu dari abad ke-8, museum ini juga menyimpan beberapa macam bentuk wayang kulit, berbagai senjata kuno (termasuk keris dan topeng Jawa)."
+            "description": "Sonobudoyo Museum is a museum of Javanese history and culture, including classical Javanese architectural buildings. This museum holds a collection of Javanese culture and history which is considered the most complete after the National Museum of the Republic of Indonesia in Jakarta. Apart from ceramics from the Neolithic era and bronze statues from the 8th century, this museum also stores several forms of wayang kulit, various ancient weapons (including keris and Javanese masks)."
         },
         {
             "id": 4, 
@@ -38,30 +41,34 @@
         {
             "id": 6, 
             "name": "Monumen Jogja Kembali", 
+            "slug": "minumen-jogja-kembali",
             "src": "monjali" , 
             "address": "Jongkang, Sariharjo, Ngaglik, Kabupaten Sleman", 
-            "description": "Museum Monumen Yogya Kembali biasa dikenal sebagai Monumen Jogja Kembali disingkat Monjali adalah sebuah museum sejarah perjuangan kemerdekaan Indonesia yang ada di Daerah Istimewa Yogyakarta dan dikelola oleh Kementerian Pariwisata dan Ekonomi Kreatif. "
+            "description": "The Yogya Return Monument Museum, commonly known as the Jogja Return Monument, abbreviated as Monjali, is a museum of the history of the Indonesian independence struggle in the Special Region of Yogyakarta and is managed by the Ministry of Tourism and Creative Economy."
         },
         {
             "id": 7, 
-            "name": "Museum Keraton Yogyakarta", 
+            "name": "Museum Keraton Yogyakarta",
+            "slug": "museum-keraton-yogyakarta",
             "src": "kraton" , 
             "address": "Jl. Rotowijayan Blok No. 1, Panembahan", 
-            "description": "Keraton Yogyakarta sebagai salah satu pilar utama berdirinya Republik Indonesia tentunya memiliki sejarah panjang perjuangannya dari era Kolonial hingga sekarang ini. Sejarah panjang tersebut tentunya berguna bagi masa depan generasi muda untuk bisa mengetahui serta memahani perjuangan yang telah dilakukan. Oleh karena itu Keraton Yogyakarta sebagai institusi budaya dan perjuangan bangsa berkewajiban mendokumentasikan perjuangannya kepada masyarakat dengan membangun wisata museum sebagai pusat dokumentasi sejarah perjuangan Keraton Yogyakarta."
+            "description": "The Yogyakarta Palace, as one of the main pillars of the founding of the Republic of Indonesia, certainly has a long history of struggle from the Colonial era until now. This long history is certainly useful for the future of the younger generation to be able to know and understand the struggles that have been carried out. Therefore, the Yogyakarta Palace as a cultural institution and national struggle is obliged to document its struggle to the public by building a tourist museum as a center for documenting the history of the struggle of the Yogyakarta Palace."
         },
         {
             "id": 8, 
             "name": "Museum Ullen Sentalu", 
+            "slug": "museum-ullen-sentalu",
             "src": "sentalu" , 
             "address": "Jl. Boyong No.KM 25, Kaliurang, Hargobinangun", 
-            "description": "Museum Ullen Sentalu banyak mengisahkan tentang peradaban Kerajaan Mataram yang terpecah menjadi 4 keraton di Solo dan Yogyakarta, yaitu Kasunanan Surakarta, Kesultanan Yogyakarta, Praja Mangkunegaran, dan Kadipaten Pakualaman."
+            "description": "The Ullen Sentalu Museum tells a lot about the civilization of the Mataram Kingdom which was divided into 4 palaces in Solo and Yogyakarta, namely Kasunanan Surakarta, Sultanate of Yogyakarta, Praja Mangkunegaran, and Kadipaten Pakualaman."
         },
         {
             "id": 9, 
             "name": "Museum Pusat TNI AU Dirgantara Mandala", 
+            "slug": "museum-pusat-tni-au-dirgantara-mandala",
             "src": "dirgantara" , 
             "address": "Komplek TNI AU Lanud Adisutjipto, Jl Raya Solo", 
-            "description": "Museum Pusat TNI AU Dirgantara Mandala adalah museum yang digagas oleh TNI Angkatan Udara yang berisikan benda-benda koleksi sejarah, dimana sebagian besarnya berupa pesawat terbang yang pernah mengabdikan diri di lingkungan TNI AU."
+            "description": "The Indonesian Air Force Dirgantara Mandala Central Museum is a museum initiated by the Indonesian Air Force which contains historical collections, most of which are aircraft that have served within the Indonesian Air Force."
         }
     ]
 }
