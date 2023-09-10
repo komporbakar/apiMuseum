@@ -5,6 +5,7 @@
             "name": "Museum Affandi", 
             "slug": "museum-affandi",
             "src": "affandi" , 
+            "tiket-price": 25000,
             "address": "Jl. Laksda Adisucipto No.167, Papringan, Caturtunggal", 
             "description": "The Affandi Museum is a historical museum located in Yogyakarta Province, precisely on Jalan Kab. Sleman"
         },
@@ -13,6 +14,7 @@
             "name": "Benteng Vredeburg", 
             "slug": "benteng-vredeburg",
             "src": "vredeburg" , 
+            "tiket-price": 70000,
             "address": "Jl. Margo Mulyo No.6, Ngupasan", 
             "description": "Vredeburg Fort is a historical witness to how strong the Dutch influence was in colonizing Indonesia. Due to its strategic position in the middle of the city, precisely in front of the Yogyakarta Palace, Fort Vredeburg has recorded important events and has undergone changes in function over time."
         },
@@ -21,28 +23,34 @@
             "name": "Museum Sonobudoyo",
             "slug": "museum-senobudoyo",
             "src": "senobudoyo" , 
+            "tiket-price": 15000,
             "address": "Jalan Trikora No. 6 Yogyakarta", 
             "description": "Sonobudoyo Museum is a museum of Javanese history and culture, including classical Javanese architectural buildings. This museum holds a collection of Javanese culture and history which is considered the most complete after the National Museum of the Republic of Indonesia in Jakarta. Apart from ceramics from the Neolithic era and bronze statues from the 8th century, this museum also stores several forms of wayang kulit, various ancient weapons (including keris and Javanese masks)."
         },
         {
             "id": 4, 
             "name": "Taman Pintar", 
+            "slug": "taman-pintar",
             "src": "tamanpintar" , 
+            "tiket-price": 10000,
             "address": "Jl. Panembahan Senopati No.1-3, Ngupasan", 
-            "description": "Taman Pintar Yogyakarta menggabungkan antara Museum dan Sains sehingga dapat mematahkan stigma masyarakat bahwa Museum tidak hanya berbicara soal masalalu, Museum juga bisa berbicara soal masadepan."
+            "description": "Taman Pintar Yogyakarta combines museums and science so that it can break the public stigma that museums don't only talk about the past, museums can also talk about the future."
         },
         {
             "id": 5, 
-            "name": "Museum Merapi", 
+            "name": "Museum Merapi",
+            "slug": "museum-merapi",
             "src": "merapi" , 
+            "tiket-price": 10000,
             "address": "Jl. Boyong, Dusun Banteng, Desa Hargobinangun", 
-            "description": "Museum ini dibuat untuk menceritakan gunung api yang ada, khususnya Merapi. Anda dapat mengamati berbagai tipe gunung api dan letusannya di dunia melalui panel museum. Selain itu artefak dari letusan Merapi tahun 2006 berupa bangkai sepeda motor, alat-alat rumah tangga, serta foto-foto erupsi tahun 2010 dapat Anda saksikan melengkapi foto-foto erupsi berbagai gunung api di Chili, Italy, Hawaii, USA, dan lain sebagainya."
+            "description": "This museum was created to tell about existing volcanoes, especially Merapi. You can observe various types of volcanoes and their eruptions in the world through the museum panels. Apart from that, you can see artifacts from the 2006 Merapi eruption in the form of motorbike carcasses, household utensils, as well as photos of the 2010 eruption, complementing photos of eruptions from various volcanoes in Chile, Italy, Hawaii, USA, and so on."
         },
         {
             "id": 6, 
             "name": "Monumen Jogja Kembali", 
             "slug": "minumen-jogja-kembali",
             "src": "monjali" , 
+            "tiket-price": 25000,
             "address": "Jongkang, Sariharjo, Ngaglik, Kabupaten Sleman", 
             "description": "The Yogya Return Monument Museum, commonly known as the Jogja Return Monument, abbreviated as Monjali, is a museum of the history of the Indonesian independence struggle in the Special Region of Yogyakarta and is managed by the Ministry of Tourism and Creative Economy."
         },
@@ -51,6 +59,7 @@
             "name": "Museum Keraton Yogyakarta",
             "slug": "museum-keraton-yogyakarta",
             "src": "kraton" , 
+            "tiket-price": 35000,
             "address": "Jl. Rotowijayan Blok No. 1, Panembahan", 
             "description": "The Yogyakarta Palace, as one of the main pillars of the founding of the Republic of Indonesia, certainly has a long history of struggle from the Colonial era until now. This long history is certainly useful for the future of the younger generation to be able to know and understand the struggles that have been carried out. Therefore, the Yogyakarta Palace as a cultural institution and national struggle is obliged to document its struggle to the public by building a tourist museum as a center for documenting the history of the struggle of the Yogyakarta Palace."
         },
@@ -59,6 +68,7 @@
             "name": "Museum Ullen Sentalu", 
             "slug": "museum-ullen-sentalu",
             "src": "sentalu" , 
+            "tiket-price": 20000,
             "address": "Jl. Boyong No.KM 25, Kaliurang, Hargobinangun", 
             "description": "The Ullen Sentalu Museum tells a lot about the civilization of the Mataram Kingdom which was divided into 4 palaces in Solo and Yogyakarta, namely Kasunanan Surakarta, Sultanate of Yogyakarta, Praja Mangkunegaran, and Kadipaten Pakualaman."
         },
@@ -67,6 +77,7 @@
             "name": "Museum Pusat TNI AU Dirgantara Mandala", 
             "slug": "museum-pusat-tni-au-dirgantara-mandala",
             "src": "dirgantara" , 
+            "tiket-price": 17000,
             "address": "Komplek TNI AU Lanud Adisutjipto, Jl Raya Solo", 
             "description": "The Indonesian Air Force Dirgantara Mandala Central Museum is a museum initiated by the Indonesian Air Force which contains historical collections, most of which are aircraft that have served within the Indonesian Air Force."
         }
