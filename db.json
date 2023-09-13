@@ -1,84 +1,139 @@
 {
-    "museum": [
+    "category": [
+        {
+            "id": 1,
+            "name": "Art Activities",
+            "slug": "art-activities-jogja"
+        },
+        {
+            "id": 2,
+            "name": "Attraction",
+            "slug": "attraction-jogja"
+        },
+        {
+            "id": 3,
+            "name": "Drinks",
+            "slug": "drinks-jogja"
+        },
+        {
+            "id": 4,
+            "name": "Foods",
+            "slug": "foods-jogja"
+        },
+        {
+            "id": 5,
+            "name": "Hotel",
+            "slug": "hotel-jogja"
+        },
+        {
+            "id": 6,
+            "name": "Museum",
+            "slug": "museum-jogja"
+        },
+        {
+            "id": 5,
+            "name": "Souvenir",
+            "slug": "souvenir-jogja"
+        }
+    ],
+    "items": [
         {
             "id": 1, 
+            "id_category": 6,
             "name": "Museum Affandi", 
             "slug": "museum-affandi",
             "src": "affandi" , 
             "tiket-price": 25000,
             "address": "Jl. Laksda Adisucipto No.167, Papringan, Caturtunggal", 
+            "position": {"lat": -7.78106 , "lng": 110.3602408}, 
             "description": "The Affandi Museum is a historical museum located in Yogyakarta Province, precisely on Jalan Kab. Sleman"
         },
         {
             "id": 2, 
+            "id_category": 6,
             "name": "Benteng Vredeburg", 
             "slug": "benteng-vredeburg",
             "src": "vredeburg" , 
             "tiket-price": 70000,
             "address": "Jl. Margo Mulyo No.6, Ngupasan", 
+            "position": {"lat": -7.80028465 , "lng": 110.36635102726859},
             "description": "Vredeburg Fort is a historical witness to how strong the Dutch influence was in colonizing Indonesia. Due to its strategic position in the middle of the city, precisely in front of the Yogyakarta Palace, Fort Vredeburg has recorded important events and has undergone changes in function over time."
         },
         {
             "id": 3, 
+            "id_category": 6,
             "name": "Museum Sonobudoyo",
             "slug": "museum-senobudoyo",
             "src": "senobudoyo" , 
             "tiket-price": 15000,
+            "position": {"lat": -7.80234425 , "lng": 110.36441291543042}, 
             "address": "Jalan Trikora No. 6 Yogyakarta", 
             "description": "Sonobudoyo Museum is a museum of Javanese history and culture, including classical Javanese architectural buildings. This museum holds a collection of Javanese culture and history which is considered the most complete after the National Museum of the Republic of Indonesia in Jakarta. Apart from ceramics from the Neolithic era and bronze statues from the 8th century, this museum also stores several forms of wayang kulit, various ancient weapons (including keris and Javanese masks)."
         },
         {
             "id": 4, 
+            "id_category": 6,
             "name": "Taman Pintar", 
             "slug": "taman-pintar",
             "src": "tamanpintar" , 
             "tiket-price": 10000,
             "address": "Jl. Panembahan Senopati No.1-3, Ngupasan", 
+            "position": {"lat": -7.8009251 , "lng": 110.3676488}, 
             "description": "Taman Pintar Yogyakarta combines museums and science so that it can break the public stigma that museums don't only talk about the past, museums can also talk about the future."
         },
         {
             "id": 5, 
+            "id_category": 6,
             "name": "Museum Merapi",
             "slug": "museum-merapi",
             "src": "merapi" , 
             "tiket-price": 10000,
             "address": "Jl. Boyong, Dusun Banteng, Desa Hargobinangun", 
+            "position": {"lat": -7.6004719 , "lng": 110.4491062}, 
             "description": "This museum was created to tell about existing volcanoes, especially Merapi. You can observe various types of volcanoes and their eruptions in the world through the museum panels. Apart from that, you can see artifacts from the 2006 Merapi eruption in the form of motorbike carcasses, household utensils, as well as photos of the 2010 eruption, complementing photos of eruptions from various volcanoes in Chile, Italy, Hawaii, USA, and so on."
         },
         {
             "id": 6, 
+            "id_category": 6,
             "name": "Monumen Jogja Kembali", 
             "slug": "minumen-jogja-kembali",
             "src": "monjali" , 
             "tiket-price": 25000,
             "address": "Jongkang, Sariharjo, Ngaglik, Kabupaten Sleman", 
+            "position": {"lat": -7.7496238 , "lng": 110.36963439175416}, 
             "description": "The Yogya Return Monument Museum, commonly known as the Jogja Return Monument, abbreviated as Monjali, is a museum of the history of the Indonesian independence struggle in the Special Region of Yogyakarta and is managed by the Ministry of Tourism and Creative Economy."
         },
         {
             "id": 7, 
+            "id_category": 6,
             "name": "Museum Keraton Yogyakarta",
             "slug": "museum-keraton-yogyakarta",
             "src": "kraton" , 
             "tiket-price": 35000,
             "address": "Jl. Rotowijayan Blok No. 1, Panembahan", 
+            "position": {"lat": -7.80820795 , "lng": 110.36378395221467}, 
             "description": "The Yogyakarta Palace, as one of the main pillars of the founding of the Republic of Indonesia, certainly has a long history of struggle from the Colonial era until now. This long history is certainly useful for the future of the younger generation to be able to know and understand the struggles that have been carried out. Therefore, the Yogyakarta Palace as a cultural institution and national struggle is obliged to document its struggle to the public by building a tourist museum as a center for documenting the history of the struggle of the Yogyakarta Palace."
         },
         {
             "id": 8, 
+            "id_category": 6,
             "name": "Museum Ullen Sentalu", 
             "slug": "museum-ullen-sentalu",
             "src": "sentalu" , 
             "tiket-price": 20000,
             "address": "Jl. Boyong No.KM 25, Kaliurang, Hargobinangun", 
+            "position": {"lat": -7.59764835 , "lng": 110.42339618812312}, 
             "description": "The Ullen Sentalu Museum tells a lot about the civilization of the Mataram Kingdom which was divided into 4 palaces in Solo and Yogyakarta, namely Kasunanan Surakarta, Sultanate of Yogyakarta, Praja Mangkunegaran, and Kadipaten Pakualaman."
         },
         {
             "id": 9, 
+            "id_category": 6,
             "name": "Museum Pusat TNI AU Dirgantara Mandala", 
             "slug": "museum-pusat-tni-au-dirgantara-mandala",
             "src": "dirgantara" , 
             "tiket-price": 17000,
             "address": "Komplek TNI AU Lanud Adisutjipto, Jl Raya Solo", 
+            "position": {"lat": -7.7897642000000005 , "lng": 110.41619378089325}, 
             "description": "The Indonesian Air Force Dirgantara Mandala Central Museum is a museum initiated by the Indonesian Air Force which contains historical collections, most of which are aircraft that have served within the Indonesian Air Force."
         }
     ]
